@@ -3,9 +3,10 @@ vaults:
     - fsPath: vault
 site:
     copyAssets: true
-    assetsPrefix: dendron
+    assetsPrefix: root
     siteHierarchies:
         - root
+        - bozo
     siteRootDir: docs
     siteProtocol: https
     usePrettyRefs: true
