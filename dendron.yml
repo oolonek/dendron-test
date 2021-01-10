@@ -8,3 +8,11 @@ site:
     siteRootDir: docs
     siteProtocol: https
     usePrettyRefs: true
+    logo: "docs/assets/images/logo.png"
+    siteUrl: https://oolonek.github.io/dendron-test/
+    gh_edit_repository: https://github.com/oolonek/dendron-test
+    gh_edit_branch: main
+    title: grndstt's dendron-test
+    author: "grndstt" 
+    
+
