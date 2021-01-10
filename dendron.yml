@@ -3,6 +3,7 @@ vaults:
     - fsPath: vault
 site:
     copyAssets: true
+    assetsPrefix: dendron
     siteHierarchies:
         - root
     siteRootDir: docs
