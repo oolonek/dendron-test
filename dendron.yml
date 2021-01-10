@@ -3,7 +3,7 @@ vaults:
     - fsPath: vault
 site:
     copyAssets: true
-    assetsPrefix: root
+    assetsPrefix: dendron-test
     siteHierarchies:
         - root
         - bozo
