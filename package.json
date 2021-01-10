@@ -1,0 +1,27 @@
+{
+  "name": "dendron-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oolonek/dendron-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oolonek/dendron-test/issues"
+  },
+  "homepage": "https://github.com/oolonek/dendron-test#readme",
+  "dependencies": {
+    "@dendronhq/dendron-11ty": "^1.23.6",
+    "@dendronhq/dendron-cli": "^0.23.2-alpha.2"
+  }
+}
